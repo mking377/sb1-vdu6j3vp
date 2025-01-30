@@ -13,9 +13,9 @@ function App() {
   const galleryRef = useRef<HTMLDivElement>(null);
 
   const galleryCategories = [
-    'الأبواب المصفحة الفاخرة',
-    'الأبواب المصفحة الكلاسيكية',
-    'أبواب المداخل الرئيسية',
+    'الأبواب المصفحة التركية',
+    'الأبواب المصفحة التركية ',
+    'أبواب الغرف الداخليه',
     'التصاميم الخاصة'
   ];
 
@@ -200,15 +200,15 @@ function App() {
               <div className="space-y-2">
                 <div className="flex items-center">
                   <Phone className="h-5 w-5 ml-2" />
-                  <span>+966 XX XXX XXXX</span>
+                  <span>+201095058080</span>
                 </div>
                 <div className="flex items-center">
                   <Mail className="h-5 w-5 ml-2" />
-                  <span>info@obaidtrading.com</span>
+                  <span>rm664150@gmail.com</span>
                 </div>
                 <div className="flex items-center">
                   <MapPin className="h-5 w-5 ml-2" />
-                  <span>الرياض، المملكة العربية السعودية</span>
+                  <span>البحيرة، ايتاي البارود، شارع جمال عبد الناصر</span>
                 </div>
               </div>
             </div>
